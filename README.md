@@ -116,6 +116,13 @@ Proyek ini telah dilengkapi dengan GitHub Actions. Setiap kali ada push ke branc
 
 ---
 
+##🔗 Publikasi dan Deployment Eksternal
+Hugging Face Space (Deployment Production): Model telah di-deploy dan dapat diakses publik melalui link berikut. Anda dapat melakukan pengujian API secara langsung pada URL ini.
+
+[Hugging Face API Docs] https://dwiratna-prediksi-stunting.hf.space/docs
+
+GitHub Actions: Status CI/CD (Automated Testing) dapat dipantau melalui badge di bagian atas README.
+
 ## 👥 Tim Pengembang
 
 * Siti Nur Aarifah (122450006)
