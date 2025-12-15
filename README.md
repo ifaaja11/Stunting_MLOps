@@ -15,7 +15,6 @@ Tugas Besar Mata Kuliah *Machine Learning Operations* Sains Data - ITERA 2025.
 | **🔍 Background** | Stunting adalah gangguan pertumbuhan kronis pada anak akibat kurang gizi. Deteksi dini seringkali terlambat karena kurangnya alat bantu prediksi cepat di tingkat Posyandu. |
 | **💎 Value Proposition** | Menyediakan API prediksi otomatis yang dapat membantu tenaga kesehatan/orang tua mengetahui status gizi balita secara *real-time* dan akurat. |
 | **🎯 Objectives** | Membangun model klasifikasi dengan akurasi tinggi dan men-deploy-nya ke sistem produksi yang terotomatisasi. |
-| **🧠 Solution** | Menggunakan algoritma **Support Vector Machine (SVM)** dengan pipeline preprocessing otomatis (OneHotEncoding & Scaling). |
 | **📊 Data** | Dataset Balita yang mencakup fitur: `Umur (bulan)`, `Jenis Kelamin`, `Tinggi Badan (cm)`. Target: `Status Gizi`. |
 | **📈 Metrics** | Evaluasi model menggunakan **Accuracy**, **Precision**, dan **Recall** untuk meminimalkan kesalahan deteksi. |
 | **🚀 Inference** | **Online Inference** menggunakan REST API (FastAPI). |
